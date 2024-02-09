@@ -89,3 +89,5 @@ auth.json
 /images
 
 !client/src/components/Nav/SettingsTabs/Data/
+
+bun.lockb
